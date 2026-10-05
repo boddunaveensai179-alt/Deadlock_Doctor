@@ -1,0 +1,2 @@
+This data uses buffered I/O.
+The C standard library manages the buffer.

@@ -1,0 +1,3 @@
+DeadlockDoctor Resource State
+R1 = Available
+R2 = Allocated

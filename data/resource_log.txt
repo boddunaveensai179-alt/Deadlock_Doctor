@@ -1,0 +1,2 @@
+DeadlockDoctor Resource Log
+File created successfully.
